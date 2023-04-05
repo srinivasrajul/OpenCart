@@ -6,12 +6,6 @@
   </listeners>
   <test thread-count="5" name="OpenCartTest(failed)">
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="Sanity"/>
-        <include name="Regression"/>
-      </run>
-    </groups>
     <classes>
       <class name="testCases.TC_001_AccountRegistrationTest">
         <methods>

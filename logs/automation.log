@@ -310,3 +310,43 @@
 12:15:16.155 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login button in Home page
 12:15:16.368 [main] INFO  testCases.TC_003_LoginDDT - Entering login details
 12:15:16.485 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login
+13:50:26.673 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_002_LoginTest*****
+13:50:26.743 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login button in Home page
+13:50:27.158 [main] INFO  testCases.TC_003_LoginDDT - Entering login details
+13:50:27.319 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login
+13:50:37.734 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_002_LoginTest*****
+13:50:37.782 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login button in Home page
+13:50:38.013 [main] INFO  testCases.TC_003_LoginDDT - Entering login details
+13:50:38.171 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login
+13:50:48.480 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_002_LoginTest*****
+13:50:48.515 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login button in Home page
+13:50:48.749 [main] INFO  testCases.TC_003_LoginDDT - Entering login details
+13:50:48.875 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login
+13:50:59.114 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_002_LoginTest*****
+13:50:59.204 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login button in Home page
+13:50:59.402 [main] INFO  testCases.TC_003_LoginDDT - Entering login details
+13:50:59.513 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login
+13:51:09.759 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_002_LoginTest*****
+13:51:09.803 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login button in Home page
+13:51:10.010 [main] INFO  testCases.TC_003_LoginDDT - Entering login details
+13:51:10.121 [main] INFO  testCases.TC_003_LoginDDT - Clicked on login
+14:26:28.822 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+14:26:29.125 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+14:26:29.702 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+14:26:29.704 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration page opened and registration details entering
+14:26:32.634 [main] INFO  testCases.TC_001_AccountRegistrationTest - Registration details entered and clicked on continue
+14:26:32.682 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test case Failed
+14:26:34.983 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+14:26:35.347 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button in Home page
+14:26:35.638 [main] INFO  testCases.TC_002_LoginTest - Entering login details
+14:26:35.772 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+14:26:36.134 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+14:26:36.182 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+14:26:36.182 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest*****
+14:41:16.791 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+14:41:17.168 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button in Home page
+14:41:17.446 [main] INFO  testCases.TC_002_LoginTest - Entering login details
+14:41:17.596 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+14:41:17.860 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+14:41:17.908 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+14:41:17.908 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest*****
