@@ -350,3 +350,42 @@
 14:41:17.860 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
 14:41:17.908 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
 14:41:17.908 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest*****
+15:45:27.510 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+15:45:27.841 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button in Home page
+15:45:28.130 [main] INFO  testCases.TC_002_LoginTest - Entering login details
+15:45:28.304 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+15:45:28.625 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+15:45:28.680 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+15:45:28.680 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest*****
+15:52:26.113 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+15:52:26.480 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button in Home page
+15:52:26.768 [main] INFO  testCases.TC_002_LoginTest - Entering login details
+15:52:26.934 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+15:52:27.216 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+15:52:27.267 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+15:52:27.267 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest*****
+15:55:01.798 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+15:55:02.434 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button in Home page
+15:55:03.159 [main] INFO  testCases.TC_002_LoginTest - Entering login details
+15:55:03.425 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+15:55:03.892 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+15:55:03.982 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+15:55:03.982 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest*****
+12:16:50.708 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+12:17:12.684 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+12:23:46.551 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+12:24:17.737 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+12:33:52.110 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+12:33:52.371 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button in Home page
+12:33:52.791 [main] INFO  testCases.TC_002_LoginTest - Entering login details
+12:33:52.934 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+12:33:53.407 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+12:33:53.456 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+12:33:53.456 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest*****
+12:34:52.809 [main] INFO  testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+12:34:53.034 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button in Home page
+12:34:53.282 [main] INFO  testCases.TC_002_LoginTest - Entering login details
+12:34:53.409 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+12:34:53.636 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+12:34:53.681 [main] INFO  testCases.TC_002_LoginTest - Sucessfully Logged in
+12:34:53.681 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest*****

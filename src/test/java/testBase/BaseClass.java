@@ -53,7 +53,7 @@ public class BaseClass {
 //		DesiredCapabilities cp = new DesiredCapabilities();
 //		cp.setCapability(ChromeOptions.CAPABILITY, options);
 //		options.merge(cp);
-		driver = new ChromeDriver(options);
+		//driver = new ChromeDriver(options);
 		if(br.equals("chrome")) 
 		{
 			driver= new ChromeDriver(options);
